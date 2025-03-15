@@ -1,0 +1,84 @@
+{
+  "camera": {
+    "fNumber": 8.0,
+    "focalLength": 39.334999084472656,
+    "focusingDistance": 2.0,
+    "m_Pitch": 14.929224967956543,
+    "m_Position": [
+      4.750510215759277,
+      1.071278691291809,
+      0.9767002463340759
+    ],
+    "m_Yaw": -97.79691314697266,
+    "m_zNear": 0.10000000149011612,
+    "movingSpeed": 6.0
+  },
+  "objects": [],
+  "scene": {
+    "m_AtmosphereParameters": {
+      "bottomRadius": 6360000.0,
+      "cloud": {
+        "baseWidth2D": 72112.171875,
+        "baseWidth3D": 4241.0498046875,
+        "bottomAltitude": 5995.22705078125,
+        "cloudBaseHeight": 0.10000000149011612,
+        "coverage": 0.36000001430511475,
+        "extinction": 0.04699999839067459,
+        "highFrequencyNoise": 0.07999999821186066,
+        "lowFrequencyNoise": 0.30000001192092896,
+        "maxBounce": 128,
+        "taperFloor": 0.05000000074505806,
+        "taperPosition": 0.10000000149011612,
+        "thickness": 2443.9140625
+      },
+      "groundAlbedo": [
+        0.4000000059604645,
+        0.4000000059604645,
+        0.4000000059604645
+      ],
+      "mieAbsorption": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mieAbsorptionScale": 4.439999941041606e-07,
+      "mieExponentialDistribution": 1200.0,
+      "miePhaseG": 0.800000011920929,
+      "mieScattering": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "mieScatteringScale": 2.5999999706982635e-05,
+      "multiscatteringSteps": 100.0,
+      "ozoneAbsorption": [
+        0.3455609977245331,
+        1.0,
+        0.04518900066614151
+      ],
+      "ozoneAbsorptionScale": 1.8810000028679497e-06,
+      "ozoneCenterAltitude": 25000.0,
+      "ozoneWidth": 15000.0,
+      "rayleighExponentialDistribution": 8000.0,
+      "rayleighScattering": [
+        0.17528699338436127,
+        0.4096069931983948,
+        1.0
+      ],
+      "rayleighScatteringScale": 5.48999996681232e-05,
+      "solarIlluminance": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "sunAngularRadius": 0.26669999957084656,
+      "thickness": 60000.0,
+      "transmittanceSteps": 400.0
+    },
+    "m_DebugView": 0,
+    "m_EnableDOF": false,
+    "m_Exposure": 2.0999999046325684,
+    "m_MainLightPhi": 6.2829999923706055,
+    "m_MainLightTheta": 1.2230000495910645
+  }
+}
